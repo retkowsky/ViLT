@@ -1,2 +1,0 @@
-1. data labelling tool => call with pm
-2. Active Learning
