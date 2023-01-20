@@ -8,3 +8,5 @@ ViLT incorporates text embeddings into a Vision Transformer (ViT), allowing it t
 https://huggingface.co/docs/transformers/model_doc/vilt
 
 <img src="ViLT.gif">
+
+20-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
