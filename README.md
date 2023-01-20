@@ -7,6 +7,10 @@ ViLT incorporates text embeddings into a Vision Transformer (ViT), allowing it t
 
 https://huggingface.co/docs/transformers/model_doc/vilt
 
+## Notebook
+<a href="https://github.com/retkowsky/ViLT/blob/main/Visual%20Question%20Answering%20with%20ViLT.ipynb"> Python notebook demo <a>
+
+## Demo
 <img src="ViLT.gif">
 
 20-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
